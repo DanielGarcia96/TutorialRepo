@@ -1,0 +1,18 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.o
+*.pyc
+**/build
+
+# Password Files #
+##################
+*.pass
+*.password
+
+# Logfiles and Databases #
+##########################
+*.log
+*.sql
+*.sqlite
