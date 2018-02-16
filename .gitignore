@@ -4,10 +4,12 @@
 *.class
 *.o
 *.pyc
+**/build
 
 # Password Files #
 ##################
 *.pass
+*.password
 
 # Logfiles and Databases #
 ##########################
